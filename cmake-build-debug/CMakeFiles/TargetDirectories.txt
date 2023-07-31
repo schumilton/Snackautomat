@@ -1,0 +1,3 @@
+/Users/erayk/Developer/Conti/Snackautomat/cmake-build-debug/CMakeFiles/Snackautomat.dir
+/Users/erayk/Developer/Conti/Snackautomat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/erayk/Developer/Conti/Snackautomat/cmake-build-debug/CMakeFiles/rebuild_cache.dir

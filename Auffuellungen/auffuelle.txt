@@ -1,0 +1,2 @@
+Snickers,23,4,
+FritzCola,4,2,0.25,
